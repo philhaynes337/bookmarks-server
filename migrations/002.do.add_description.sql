@@ -1,0 +1,1 @@
+ALTER TABLE public.bookmarks_data ADD description text NULL;
